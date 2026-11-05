@@ -46,6 +46,8 @@ Product revenue counts only product sales and cancellations.
 
 Revenue is seasonal. It rises from September to a November peak, about 2.2–2.3 times the January–August average, then falls in December and again in January and February. It recovers in March and mostly stays around £600–700K until August. April 2011 is the main exception, at about £482K.
 
+![Monthly store revenue](monthly_revenue.png)
+
 | Month | Product revenue (GBP) | Store revenue (GBP) |
 |---|---:|---:|
 | 2009-12 | 781,378.55 | 778,636.91 |
